@@ -1,0 +1,316 @@
+.immune-box h1 {
+    max-width: 639px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    color: #88486A;
+    margin: 0 auto;
+    margin-bottom: 51px;
+}
+
+.immune-box p {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 34px;
+}
+
+.immune-box img {
+    max-width: 1600px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 26px;
+}
+
+.immune-list {
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+.immune-list li {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    background: #E1EDBF;
+    padding: 20px 10px;
+}
+
+.immune-list li:nth-child(odd) {
+    background: #ffffff;
+}
+
+.immune-cell img {
+    max-width: 595px;
+    width: 100%;
+}
+
+.immune-cell {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: left;
+    color: #000000;
+    position: relative;
+}
+
+.immune-cell p:first-child {
+    background: #E1EDBF;
+    padding: 13px;
+    margin: 0;
+} 
+
+.immune-cell ul {
+    list-style: disc inside;
+    padding-left: 10px;
+    margin: 30px 0;
+}
+
+.genesis-img-box {
+    position: relative;
+    padding-top: 150px;
+}
+.regenesis-protocol-section {
+    position: relative;
+}
+.regenesis-protocol-section::before {
+    content: "";
+    position: absolute;
+    top: 500px;
+    background-image: url(../images/about-left.svg);
+    max-width: 513px;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+.immune-list-title {
+    margin-top: 20px;
+}
+
+.immune-list-title::before {
+    content: "";
+    position: absolute;
+    top: 20px;
+    left: -100px;
+    background-image: url(../images/about-left.svg);
+    max-width: 513px;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+/*-------------------------------------Immune System Page CSS Ends----------------------------------*/
+
+.regenesis-box {
+    padding: 28px 0;
+    padding-left: 66px;
+}
+
+.regenesis-box h1 {
+    max-width: 460px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    text-align: left;
+    color: #88486A;
+    margin-bottom: 18px;
+}
+
+.regenesis-box p {
+    max-width: 683px;
+    width: 100%;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #000000;
+    margin-bottom: 41px;
+}
+
+.regenesis-box a {
+    font-family: Poppins;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    background: #88486A;
+    padding: 10px 48px;
+}
+
+.regeneration-box {
+    background: #D5E89F;
+    padding: 24px 0 33px;
+    margin: 48px 0 40px;
+}
+
+.regeneration-box h2 {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    color: #88486A;
+    margin-bottom: 10px;
+}
+
+.regeneration-box p {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: center;
+    margin: 0;
+}
+
+.mission-box {
+    margin-bottom: 160px;
+}
+
+.mission-box h3 {
+    max-width: 870px;
+    width: 100%;
+    color: #88486A;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: center;    
+    margin: 0 auto;
+    margin-bottom: 33px;
+}
+
+.mission-box p {
+    max-width: 1487px;
+    width: 100%;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    text-align: center;
+    color: #000000;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.biohealth-box  {
+    margin-bottom: 40px;
+}
+
+.biohealth-box h4 {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #88486A;
+    margin-bottom: 20px;
+}
+
+.biohealth-box ul {
+    list-style: disc;
+}
+
+.biohealth-box ul li {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: left;
+    color: #000000;
+}
+
+.select-product-box {
+    padding: 0 10px;
+}
+
+.select-product-box h4 {
+    max-width: 721px;
+    margin: 0 auto;
+    margin-bottom: 52px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: center;
+    color: #88486A;
+}
+
+.select-product-box img {
+    max-width: 533px;
+    width: 100%;
+    height: auto;
+}
+
+.select-product-box h6 {
+    max-width: 300px;
+    margin: 0 auto;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    text-align: center;
+    color: #88486A;
+    margin-top: 32px;
+}
+
+.discount-offer p {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: center;
+    color: #000000;
+    margin: 65px 0;
+}
+
+.health-benifit-section {
+    margin-top: 68px;
+}
+
+.fruit-img-box {
+    text-align: center;
+}
+
+.fruit-img-box img:first-child {
+    max-width: 846px;
+    width: 100%;
+    margin-bottom: 46px;
+}
+
+.fruit-img-box img:nth-child(2) {
+    max-width: 627px;
+    width: 100%;
+
+}
+
+.symphony-box h5 {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #88486A;
+    margin-bottom: 53px;
+}
+
+.symphony-box p {
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 45px;
+    color: #000000;
+}

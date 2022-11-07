@@ -1,0 +1,386 @@
+@media (min-width: 1600px) {
+  .container {
+    max-width: 1600px;
+  }
+}
+
+@media (max-width: 1599px) {
+  .navbar-brand img {
+    max-width: 200px;
+  }
+
+  .header .navbar-nav li .nav-link {
+    font-size: 18px;
+    padding: 10px 15px;
+  }
+}
+
+@media (max-width: 1399px) {
+  .top-footer ul li a {
+    font-size: 16px;
+  }
+
+  .menu-nav ul.custom-header li a {
+    font-size: 16px;
+    padding: 0.5rem 0.5rem;
+  }
+
+  .quality-section .item .content h4,
+  .title,
+  .testimonial-title ,
+  .why-genisis-title,
+  .clr-box h3, .white-box h3{
+    font-size: 28px;
+  }
+
+  .quality-section .item .content p ,
+  .inofrmation-content p,
+  .information-list li,
+  .description-tab ul li a{
+    font-size: 23px;
+  }
+
+  .home-banner-section .home-content h2,
+  .title2 {
+    font-size: 38px;
+  }
+
+  .home-banner-section .home-content p,
+  .home-banner-section .btn.btn-shop-now,
+  .inner-slider-testimonial p {
+    font-size: 18px;
+  }
+
+  .title {
+    margin-bottom: 35px;
+  }
+
+  .sub-txt,
+  .product-section .product-card p,
+  .comiitted-section .inner-comiitted ul li {
+    font-size: 20px;
+  }
+
+  .inner-newsletter .grid-right-item .sb-input,
+  .inner-newsletter .grid-right-item input[type="submit"],
+  .about-content p ,
+  .contact-form input, .contact-form textarea,
+  .contact-form input[type="submit"],
+  .contact-section .item p,
+  .our-story-content p,
+  .our-story-txt,
+  .infromation-tab li a,
+  .why-genisis p,
+  .clr-box p, .white-box p,
+  .description-tab .description-content p{
+    font-size: 19px;
+  }
+
+  .contact-form {
+    padding: 0 40px 20px 40px;
+  }
+  .contact-section .item img{
+    margin-bottom: 30px;
+  }
+  .related-product-item .content p{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .bottom-footer p {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+  .quality-section .item .content h4,
+  .title,
+  .testimonial-title,
+  .why-genisis-title,
+  .clr-box h3, .white-box h3 {
+    font-size: 27px;
+  }
+
+  .quality-section .item .content p,
+  .inofrmation-content p ,
+  .information-list li,
+  .description-tab ul li a{
+    font-size: 21px;
+  }
+
+  .home-banner-section .home-content h2,
+  .title2 {
+    font-size: 36px;
+    line-height: 1.3;
+  }
+
+  .home-banner-section .home-content p,
+  .home-banner-section .btn.btn-shop-now {
+    font-size: 16px;
+  }
+
+  .title {
+    font-size: 30px;
+  }
+
+  .sub-txt,
+  .product-section .product-card p,
+  .comiitted-section .inner-comiitted ul li,
+  .inner-slider-testimonial p ,
+  .contact-form input, .contact-form textarea,
+  .infromation-tab li a,
+  .why-genisis p,
+  .clr-box p, .white-box p{
+    font-size: 18px;
+  }
+
+  .inner-newsletter .grid-right-item .sb-input,
+  .inner-newsletter .grid-right-item input[type="submit"],
+  .about-content p ,
+  .contact-form input[type="submit"],
+  .contact-section .item p,
+  .our-story-content p,
+  .our-story-txt,
+  .description-tab .description-content p{
+    font-size: 18px;
+  }
+  .contact-section .item img{
+    margin-bottom: 25px;
+  }
+  .related-product-item .content p{
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 991px) {
+  .menu-nav ul.custom-header{
+    flex-direction: column;
+  }
+  .menu-nav ul.custom-header li a{
+    text-align: left;
+  }
+  .menu-nav {
+    background-color: #fff;
+  }
+  .header .header-2::before{
+    display: none;
+  }
+  .header .header-2{
+    padding-left: 0;
+  }
+  .footer-logo {
+    max-width: 150px;
+  }
+
+  .center-footer {
+    padding: 50px 0;
+  }
+
+  .footer-title {
+    margin: 20px 0;
+  }
+
+  .follow-txt {
+    margin-bottom: 15px;
+  }
+
+  .home-img img {
+    position: static;
+  }
+
+  .home-banner-section .swiper-slide {
+    height: 100%;
+    min-height: auto;
+  }
+
+  .inner-newsletter .grid-right-item .sb-input,
+  .inner-newsletter .grid-right-item input[type="submit"],
+  .about-content p ,
+  .our-story-content p,
+  .our-story-txt,
+  .infromation-tab li a,
+  .why-genisis p,
+  .clr-box p, .white-box p,
+  .description-tab .description-content p,
+  .related-product-item .content p{
+    font-size: 17px;
+  }
+
+  .quality-section .item .content h4,
+  .title,
+  .testimonial-title ,
+  .why-genisis-title,
+  .clr-box h3, .white-box h3{
+    font-size: 25px;
+  }
+
+  .quality-section .item .content p,
+  .inofrmation-content p,
+  .information-list li,
+  .description-tab ul li a {
+    font-size: 19px;
+  }
+
+  .home-banner-section .home-content h2,
+  .title2 {
+    font-size: 34px;
+  }
+
+  .title {
+    margin-bottom: 20px;
+  }
+
+  .sub-txt,
+  .product-section .product-card p,
+  .comiitted-section .inner-comiitted ul li,
+  .inner-slider-testimonial p ,
+  .contact-form input, .contact-form textarea,
+  .contact-form input[type="submit"],
+  .contact-section .item p{
+    font-size: 16px;
+  }
+
+  .home-banner-section .home-content {
+    padding-bottom: 40px;
+  }
+
+  .about-content {
+    margin-top: 30px;
+  }
+  .contact-section .item img{
+    margin-bottom: 20px;
+  }
+  .clr-box,
+  .white-box{
+    padding: 15px 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .top-footer ul {
+    flex-wrap: wrap;
+  }
+  .infromation-tab{
+    flex-wrap: wrap;
+  }
+  .center-footer {
+    padding: 40px 0;
+  }
+  .contact-section{
+    flex-wrap: wrap;
+  }
+  .contact-section .item{
+    width: 100%;
+    padding: 50px 40px;
+  }
+
+  .inner-newsletter .grid-right-item .sb-input,
+  .inner-newsletter .grid-right-item input[type="submit"],
+  .about-content p ,
+  .contact-form input[type="submit"],
+  .our-story-content p,
+  .our-story-txt,
+  .infromation-tab li a,
+  .clr-box p, .white-box p,
+  .description-tab ul li a,
+  .related-product-item .content p{
+    font-size: 16px;
+  }
+
+  .quality-section .item .content h4,
+  .title,
+  .testimonial-title,
+  .why-genisis-title ,
+  .clr-box h3, .white-box h3{
+    font-size: 23px;
+  }
+
+  .quality-section .item .content p ,
+  .custom-brardcrumb li,
+  .why-genisis p{
+    font-size: 16px;
+  }
+  .inofrmation-content p,
+  .information-list li,
+  .quality-section .item .content h4 {
+    min-height: auto;
+  }
+  .quality-section .item .content p, .inofrmation-content p, .information-list li,
+  .description-tab .description-content p{
+    font-size: 16px;
+  }
+  .quality-section {
+    flex-wrap: wrap;
+  }
+
+  .quality-section .item {
+    width: 100%;
+  }
+
+  .inner-newsletter {
+    flex-wrap: wrap;
+  }
+
+  .inner-newsletter .grid-right-item .sb-input {
+    margin-bottom: 20px;
+    text-align: left;
+    height: 50px;
+    padding: 10px 15px;
+  }
+
+
+  .inner-newsletter .grid-right-item input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+  }
+
+  .grid-right-item {
+    padding: 30px 0;
+  }
+
+  .home-banner-section .home-content h2,
+  .title2 {
+    font-size: 32px;
+  }
+
+  .inner-slider-testimonial {
+    padding: 0 40px;
+  }
+  .ourstory-list{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .ourstory-list li{
+    width: 48%;
+  }
+}
+
+@media (max-width: 575px) {
+  .footer-logo {
+    margin-bottom: 20px;
+  }
+
+  .home-banner-section .home-content h2 {
+    font-size: 30px;
+  }
+
+  .title {
+    font-size: 21px;
+  }
+
+  .product-section .product-card p {
+    min-height: auto;
+  }
+
+  .comiitted-section .inner-comiitted ul li {
+    width: 100%;
+  }
+  .ourstory-list li{
+    width: 42%;
+  }
+  .description-tab ul{
+    flex-wrap: wrap;
+  }
+}
